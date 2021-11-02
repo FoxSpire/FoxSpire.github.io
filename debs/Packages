@@ -3,7 +3,7 @@ Package: com.FoxSpire.FirstRelease
 Version: 1.0
 Section: Tweaks , test
 Maintainer: FoxSpire <stijn.verdegem@icloud.com>
-Depends: firmware (>10.0), mobilesubstrate
+Depends: firmware (>14.3), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/A Test Tweak.deb
 Size: 3826 
